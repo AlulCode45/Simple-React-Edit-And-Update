@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "product_name": "product 1",
+      "price": "$300",
+      "id": 1
+    },
+    {
+      "product_name": "product 2",
+      "price": "$250",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "product_name": "product 3",
+      "price": "$30"
+    },
+    {
+      "product_name": "Product 4",
+      "price": "$10",
+      "id": 4
+    },
+    {
+      "product_name": "alulcogan",
+      "price": "10000",
+      "id": 5
+    }
+  ]
+}
